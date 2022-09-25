@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Our body is going to take up the entire height of the viewPort */
+    overflow: hidden; /* This basically prevents the scroll bars to show incase there is an overflow in text*/
+}
+
+.bg{
+    background: url()
+}
